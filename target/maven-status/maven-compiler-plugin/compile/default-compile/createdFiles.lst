@@ -1,0 +1,8 @@
+tn\esprit\iplDahboard\data\MatchInput.class
+tn\esprit\iplDahboard\model\Team.class
+tn\esprit\iplDahboard\data\MatchDataProcessor.class
+tn\esprit\iplDahboard\data\JobCompletionNotificationListener.class
+tn\esprit\iplDahboard\data\BatchConfig.class
+tn\esprit\iplDahboard\IplDashboardApplication.class
+tn\esprit\iplDahboard\model\Match.class
+tn\esprit\iplDahboard\data\BatchConfig$1.class
